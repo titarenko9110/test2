@@ -9,8 +9,7 @@ import java.util.ResourceBundle;
  * Created by MyMac on 9/20/16.
  */
 public class Main {
-
-
+    
     private static final Logger logger = Logger.getLogger(Main.class);
 
     public static void main(String[] args) {
