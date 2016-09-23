@@ -1,0 +1,48 @@
+2016-09-23 15:30:43 INFO  Main:79 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 15:30:43 INFO  Main:68 - User locale - ru_RU
+2016-09-23 15:30:43 INFO  Main:79 - Convert message to UTF-8. Result - Добрые день, Мир!
+2016-09-23 15:45:43 INFO  Utils:51 - Current time is - 15:45:43.795
+2016-09-23 15:45:43 INFO  Utils:29 - Period - day
+2016-09-23 15:47:33 INFO  Utils:51 - Current time is - 15:47:33.302
+2016-09-23 15:47:33 INFO  Utils:28 - Period - day
+2016-09-23 15:48:15 INFO  Utils:28 - Period - day
+2016-09-23 15:48:26 INFO  Utils:28 - Period - day
+2016-09-23 15:48:54 INFO  Utils:28 - Period - evening
+2016-09-23 15:49:55 INFO  Utils:28 - Period - evening
+2016-09-23 15:50:29 INFO  Utils:28 - Period - morning
+2016-09-23 15:50:52 INFO  Utils:28 - Period - morning
+2016-09-23 15:51:23 INFO  Utils:28 - Period - night
+2016-09-23 15:51:34 INFO  Utils:28 - Period - night
+2016-09-23 15:51:34 INFO  Utils:28 - Period - morning
+2016-09-23 15:54:19 INFO  Utils:28 - Period - night
+2016-09-23 15:54:19 INFO  Utils:28 - Period - morning
+2016-09-23 15:54:19 INFO  Utils:28 - Period - morning
+2016-09-23 15:54:19 INFO  Utils:28 - Period - day
+2016-09-23 15:54:19 INFO  Utils:28 - Period - day
+2016-09-23 15:54:19 INFO  Utils:28 - Period - evening
+2016-09-23 15:54:19 INFO  Utils:28 - Period - evening
+2016-09-23 15:54:19 INFO  Utils:28 - Period - night
+2016-09-23 15:56:04 INFO  Utils:68 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:05:40 INFO  Utils:73 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:06:39 INFO  Utils:73 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:06:39 INFO  Utils:73 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:06:54 INFO  Utils:73 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:14:30 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:15:16 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:15:45 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:18:12 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:18:12 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:18:34 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:18:34 INFO  Utils:70 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:19:38 INFO  Utils:69 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:19:38 INFO  Utils:69 - Convert message to UTF-8. Result - Добрый день, Мир!
+2016-09-23 16:19:38 INFO  Utils:28 - Period - night
+2016-09-23 16:19:38 INFO  Utils:28 - Period - morning
+2016-09-23 16:19:38 INFO  Utils:28 - Period - morning
+2016-09-23 16:19:38 INFO  Utils:28 - Period - day
+2016-09-23 16:19:38 INFO  Utils:28 - Period - day
+2016-09-23 16:19:38 INFO  Utils:28 - Period - evening
+2016-09-23 16:19:38 INFO  Utils:28 - Period - evening
+2016-09-23 16:19:38 INFO  Utils:28 - Period - night
+2016-09-23 16:19:38 INFO  Utils:58 - User locale - ru_RU
+2016-09-23 16:19:38 INFO  Utils:69 - Convert message to UTF-8. Result - Добрые день, Мир!
